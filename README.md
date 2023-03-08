@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amaanmughal 
-- 👀 I’m interested in front end developement
+- 👀 I’m interested in full stack developement
 - 📫 You can reach me on my e-mail, amaanthedeveloper@outlook.com
 
 <!---
